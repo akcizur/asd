@@ -1,0 +1,8 @@
+{
+  "name": "Remix Byldr Studio - bb3005 Engine",
+  "description": "3D brick and voxel building engine with first-person navigation, mobile joystick, grid snapping, and color palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
